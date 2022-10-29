@@ -13,7 +13,7 @@
 # MAGIC 
 # MAGIC * コース名: **Scalable Machine Learning with Apache Spark**
 # MAGIC * バージョン:  **3.8.6-JA**
-# MAGIC * 作成日付: **Oct 29, 2022 at 02:34:51 UTC**
+# MAGIC * 作成日付: **Oct 29, 2022 at 17:38:12 UTC**
 
 # COMMAND ----------
 
